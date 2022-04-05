@@ -1,7 +1,6 @@
-package com.myJava.practice;
+package com.myJava.practice.ch1;
 
 import java.util.Arrays;
-import java.util.function.BinaryOperator;
 import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;

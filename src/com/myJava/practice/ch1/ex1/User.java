@@ -1,4 +1,4 @@
-package com.myJava.practice.ex1;
+package com.myJava.practice.ch1.ex1;
 
 public class User {
     private String name;

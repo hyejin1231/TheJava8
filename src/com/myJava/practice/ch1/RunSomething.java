@@ -1,4 +1,4 @@
-package com.myJava.practice;
+package com.myJava.practice.ch1;
 
 @FunctionalInterface // 자바에서 제공하는 어노테이션
 public interface RunSomething {

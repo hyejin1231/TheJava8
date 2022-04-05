@@ -1,4 +1,4 @@
-package com.myJava.practice;
+package com.myJava.practice.ch1;
 
 public class Foo {
 

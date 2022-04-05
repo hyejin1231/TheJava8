@@ -1,4 +1,4 @@
-package com.myJava.practice.ex1;
+package com.myJava.practice.ch1.ex1;
 
 import java.util.function.Function;
 import java.util.function.Supplier;
