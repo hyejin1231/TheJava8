@@ -1,6 +1,4 @@
-package com.myJava.practice.ch4;
-
-import java.util.Optional;
+package com.myJava.practice.optional;
 
 public class OnlineClass {
     private Integer id;

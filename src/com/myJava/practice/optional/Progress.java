@@ -1,4 +1,4 @@
-package com.myJava.practice.ch4;
+package com.myJava.practice.optional;
 
 import java.time.Duration;
 
@@ -8,6 +8,7 @@ public class Progress {
     private boolean finished;
 
     public Duration getStudyDuration() {
+
         return studyDuration;
     }
 
