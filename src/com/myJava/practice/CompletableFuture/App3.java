@@ -20,7 +20,8 @@ public class App3 {
         System.out.println(helloFuture.isDone());
         System.out.println("Started!!");
 
-        helloFuture.get();
+        String s = helloFuture.get();
+        System.out.println("s = " + s);
 
 //        helloFuture.cancel(false); cancel 하고 나면 값을 가져올 수 없다.
 
